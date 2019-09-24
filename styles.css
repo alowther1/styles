@@ -1,0 +1,28 @@
+/* Intro to CSS */
+
+body {
+	font-family: sans-serif;
+	background-color: pink;
+	color: white;
+	max-width: 40em;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+h1{
+	font-size: 4em;
+}
+em{
+	font-size: 2.5em;
+	color: black
+}
+
+h3{
+	color: purple
+
+p{
+	text-indent: 2em;
+	margin-bottom: 1.5em;
+}
+li{
+	font-size: 2em;
